@@ -19,6 +19,7 @@ MY ASP.NET CORE BASIC NOTES
  7. Different kinds of database relationships.
  8. Async/await
  9. DTO's
+ 10. Fluent API
 
 
 ## How To Use
